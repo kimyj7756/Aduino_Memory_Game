@@ -10,6 +10,10 @@ __김연준, 이세민, 한승우__
 
 <img src="/images/슬라이드4.PNG" width="50%"><img src="/images/슬라이드5.PNG" width="50%">
 
+Demo:
+
+![](http://damien.pobel.fr/images/youtube-video-github.gif)
+
 ### 1. 시스템 고려요소
 ------------------------------
 1. 인터럽트 처리: 7-세그먼트에 표시된 타이머 0이 되면 게임을 종료 시키는 인터럽트 발생(타이머 인터럽트)
