@@ -11,7 +11,7 @@ __김연준, 이세민, 한승우__
 <img src="/images/슬라이드4.PNG" width="50%"><img src="/images/슬라이드5.PNG" width="50%">
 
 
-[![데모 영상]](https://youtu.be/U0enWtgjGhM)
+[데모 영상](https://youtu.be/U0enWtgjGhM)
 
 
 ### 1. 시스템 고려요소
