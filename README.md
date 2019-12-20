@@ -8,7 +8,7 @@ __김연준, 이세민, 한승우__
 
 2. 다양한 센서를 활용하여 기억력을 기르기 위한 게임 제작
 
-<img src="/images/슬라이드4.pNG" width="50%"><img src="/images/슬라이드5.PNG" width="50%">
+<img src="/images/슬라이드4.PNG" width="50%"><img src="/images/슬라이드5.PNG" width="50%">
 
 ### 1. 시스템 고려요소
 ------------------------------
